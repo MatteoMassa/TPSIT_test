@@ -2,4 +2,7 @@ class veicolo:
     def __init__(self):
         pass
 
-class 
+class auto(veicolo):
+    def __init__(self):
+        pass
+    #a
