@@ -3,7 +3,7 @@ from datetime import date, datetime
 from typing import List, Dict, Optional
 import uuid
 
-class Moto:
+class Moto(ar):
     def __init__(self, motore, cilindri, peso, quantita):
         self.qauntita = quantita
         self.motore : List[motori] = []
